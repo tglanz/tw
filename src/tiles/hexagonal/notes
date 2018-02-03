@@ -1,0 +1,6 @@
+1.  A lot of terms, calculation and insights were taken from
+    https://www.gamedev.net/articles/programming/general-and-gameplay-programming/coordinates-in-hexagon-based-tile-maps-r1800/
+
+2. The implementation is currently only hexagonal, can make a rectangular (or triangular) the with the same signature,
+   and decide in runtime which to pick. can be nice to try, but hexa is currently by design
+
