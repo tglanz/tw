@@ -1,3 +1,1 @@
-module.exports = () => {
-    print("This is the engine")
-}
+const framework = require('framework')
